@@ -1,0 +1,6 @@
+select * from uday
+create table uday (
+sales int,
+expenses int);
+insert into uday(sales,expenses)
+values (30,000,10,000);
