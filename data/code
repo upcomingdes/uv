@@ -4,3 +4,8 @@ sales int,
 expenses int);
 insert into uday(sales,expenses)
 values (30,000,10,000);
+
+
+
+
+select sales,expenses from uday;
